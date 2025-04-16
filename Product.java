@@ -4,7 +4,7 @@ public class Product {
     private double price; // Price of the product
     private int quantity; // Quantity available in stock
 
-    // Constructor
+    // Constructor using 'this' keyword
     public Product(String name, double price, int quantity) {
         this.name = name;
         this.price = price;
