@@ -11,7 +11,7 @@ public class Product {
         this.quantity = quantity;
     }
 
-    // Getters and Setters
+    // Getters and Setters to get and set the parameters
     public String getName() {
         return name;
     }
